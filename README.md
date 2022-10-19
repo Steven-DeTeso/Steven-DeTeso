@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on completing Coding Dojo's Python Full-Stack online coursework. Most of my repositories here are dedicated to specific core assignments that are needed for graduation. 
-<br>🤝 I’m looking to just network and meet other developers at this time! 
+<br>🤝 Currently, I'm just looking to network and meet other developers at this time! 
 <br>🌱 I’m currently learning Python, MySQL, and the Flask framework. <br>💬 Ask me about how my journey learning to code has been so far. I started in August 2022.
 <br>⚡ Fun fact, before turning my attention to CS and programming, I was a professional barman at a casual-fine dining shellfish restaurant. 
 
