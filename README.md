@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Hello! Welcome to my Github page. I'm Steven and I'm a software engineer with skills in full stack development. Outside of programming, I enjoy spending time in nature, running and hiking with my partner and young pup.  
 <br>🤝 As of January 2023, I've graduated a coding bootcamp and am working on personal projects and building out my network. My hope is to level up my skills to a point in which I can join an organization and team of people doing some cool work to help people.  
-<br>🌱 I'm currently still programming with Python, MySQL, and the Flask framework. Going forward I'm looking to learn more advanced Javascript and the MERN stack. <br>💬 Ask me about how my journey learning to code has been so far. I started in August 2022.
+<br>🌱 I'm currently still programming with Python, MySQL, and the Flask framework. I'm doing a Django social media project right now to really hone my skills in that framework. My next steps would be to learn more advanced Javascript and the MERN stack. <br>💬 Ask me about how my journey learning to code has been so far. I started in August 2022.
 <br>⚡ Fun fact, before turning my attention to computer science and programming, I was a professional barman at a casual-fine dining shellfish restaurant. 
 
 
