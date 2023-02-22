@@ -2,7 +2,9 @@
 🔭 Hello! Welcome to my Github page. I'm Steven and I'm a software engineer with skills in full stack development. Outside of programming, I enjoy spending time in nature, running and hiking with my partner and young pup.  
 <br>🤝 As of January 2023, I've graduated a coding bootcamp and am working on personal projects and building out my network. My hope is to level up my skills to a point in which I can join an organization and team of people doing some cool work that makes a positive impact on peoples lives.  
 <br>🌱 I'm currently learning common Data structures and Algorithms. I'm building a React/Django/Postgres social media project under the direction of a senior software engineer with 7+ years in the industry. I'm also investing time and effort into learning the MERN stack. 
+
 <br>💬 Ask me about how my journey learning to code has been so far! I started in August 2022 and have been consistently learning and building for 6 months now. 
+
 <br>⚡ Fun fact about me, before turning my attention to computer science and programming, I was a professional barman at a casual-fine dining shellfish restaurant. In this role, I learned strong communication and time management skills that help me communicate efficiently and affectively with others.
 
 
